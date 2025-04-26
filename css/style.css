@@ -1,0 +1,15 @@
+.foto_personal {
+    width: 20%;
+    border-radius: 40%;
+    
+}
+
+.barra_superior{
+    display: flex;
+    align-items: center;
+}
+
+.contenedor_nombre{
+    margin-left: -450px;
+}
+
