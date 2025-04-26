@@ -31,3 +31,29 @@
     font-weight: bold;
     text-align: left;
 }
+
+.ant_academicos{
+    font-weight: bold;
+    text-align: left;
+}
+
+.otros_estudios {
+    font-weight: bold;
+    text-align: left;
+}
+
+.lista1 {
+    margin-top: 7px;
+    font-weight: 500;
+}
+.lista2 {
+    margin-top: 7px;
+}
+
+.lista3 {
+    margin-top: 7px;
+}
+
+.lista4 {
+    margin-top: 7px;
+}
