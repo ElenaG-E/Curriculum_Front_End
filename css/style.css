@@ -1,6 +1,7 @@
 .foto_personal {
     width: 20%;
-    border-radius: 40%;
+    border-radius: 40%; 
+
     
 }
 
@@ -20,4 +21,8 @@
 
 .p1{
     font-weight: lighter;
+}
+
+.bi {
+    font-size: 25px;
 }
