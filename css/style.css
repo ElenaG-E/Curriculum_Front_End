@@ -17,10 +17,12 @@
 .des_titulo {
     font-weight: bold;
     text-align: center;
+    font-size: 105%;
 }
 
 .p1{
     font-weight: lighter;
+    margin-top: 7px;
 }
 
 .bi {
@@ -44,16 +46,19 @@
 
 .lista1 {
     margin-top: 7px;
-    font-weight: 500;
+    font-weight: 450;
 }
 .lista2 {
     margin-top: 7px;
+    font-weight: 450;
 }
 
 .lista3 {
     margin-top: 7px;
+    font-weight: 450;
 }
 
 .lista4 {
     margin-top: 7px;
+    font-weight: 450;
 }
